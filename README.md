@@ -6,10 +6,10 @@ I'm an IT student at TechSpire,and full-time bug squasher. Currently walking the
 🎯 My goal? Someday engineer solutions at **Google** or **Microsoft** (big dreams need big brackets {}).
 
 ## Skills 
-🧑‍💻 Full-Stack Developer (Node.js + SQL Stack)
-🔧 Backend: Node.js | Express | PostgreSQL | MSSQL | Postman
-🌐 Frontend: React | HTML | CSS | JavaScript
-📦 RESTful API Design & Testing | Scalable Web Apps
+🧑‍💻 Full-Stack Developer (Node.js + SQL Stack) <br>
+🔧 Backend: Node.js | Express | PostgreSQL | MSSQL | Postman <br>
+🌐 Frontend: React | HTML | CSS | JavaScript <br>
+📦 RESTful API Design & Testing | Scalable Web Apps <br>
 🛠️ Clean Code | Real Projects | RentSathi in Progress
 
 Let's build something awesome — preferably with fewer bugs this time. 😉
